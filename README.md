@@ -1,1 +1,1 @@
-# kullan-c-bilgisi-alan-python
+# kullan-c-bilgisi-alan-python-programi
